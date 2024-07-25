@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - ControlledSquare
+  - Bullet
+  - Ball
+  - Gol1
+  - Gol2
   layers:
   - Default
   - TransparentFX
